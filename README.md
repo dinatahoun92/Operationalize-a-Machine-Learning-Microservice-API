@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://app.circleci.com/pipelines/github/dinatahoun92/Operationalize-a-Machine-Learning-Microservice-API](<LINK>)
 
 ## Project Overview
 
